@@ -2,21 +2,43 @@ url: https://y7kim.github.io
 baseurl: 
 
 # Site settings
-title: Gert Claus
+title: Digital Team
 email: gert.claus@police.belgium.eu
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503  
-  secondary-dark: 333
+  primary: F04E1D
+  secondary: 343434  
+  secondary-dark: BFB591
 
 # Team names, titles and social links
 people:
 - name: Gert Claus
   pic: 1
   position: Web Designer & Social Media Consultant
+  social:
+    - title: twitter
+      url: https://twitter.com/GertCls
+    - title: facebook
+      url: https://www.facebook.com/gert.claus
+    - title: github
+      url: https://github.com/GertClaus
+      
+- name: Laurent Bianchin
+  pic: 2
+  position: Web Designer & Social Media Consultant
+  social:
+    - title: twitter
+      url: https://twitter.com/GertCls
+    - title: facebook
+      url: https://www.facebook.com/gert.claus
+    - title: github
+      url: https://github.com/GertClaus
+      
+- name: Pascal Niego
+  pic: 3
+  position: Web Developer & Social Media Consultant
   social:
     - title: twitter
       url: https://twitter.com/GertCls
