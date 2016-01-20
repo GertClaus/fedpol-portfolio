@@ -8,8 +8,8 @@ img: facebook.jpg
 thumbnail: facebook-thumb.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: CGC Digital
+category: Community Management, Content creation, Third party content curation
+description: The Facebook page Belgian Federal Police has become an important tool in a transparent communication. With almost 30.000 likes without spending on advertisement it is safe to say this is our primary target. We also answer all questions and comments on our posts.
 
 ---

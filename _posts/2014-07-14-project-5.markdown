@@ -1,15 +1,15 @@
 ---
 title: Instagram
-subtitle: Vintage vrijdag
+subtitle: Vintage Vrijdag
 layout: default
 modal-id: 5
 date: 2014-07-14
 img: instagram.jpg
 thumbnail: instagram-thumb.jpg
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+alt: vintagefriday
+project-date: January 2016
+client: CGC Marketing
+category: Content curation, Community management
+description: VintageVrijdag or #VendrediVintage is a new Instagram-focused series in cooperation with the Marketing dept. We focus on old pictures scans in relation to contemporary events and address the historical polie fans and enlarge our Instagram fanbase.
 
 ---

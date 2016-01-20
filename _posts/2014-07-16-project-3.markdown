@@ -3,13 +3,13 @@ title: Politiedorp 2011
 subtitle: Design & coding
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2011-07-01
+img: Politiedorp2011.jpg
+thumbnail: Politiedorp2011-thumb.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: De eerste website met een mobile first approach en microformats voor extra functionaliteit in het voordeel van de gebruiker én zoekmachines.
+description: One of the first microsites with a mobile first approach and heavily relying on microformats for added functionality for search engines and real people. 
 
 ---

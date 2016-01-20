@@ -1,14 +1,14 @@
 ---
-title: Instagram
-subtitle: Vintage vrijdag
+title: Jaarverslag 2013
+subtitle: Resonsive template, IA & coding
 layout: default
-modal-id: 5
+modal-id: 8
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: RA2013.jpg
+thumbnail: RA2013-thumb.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: Federale politie
 category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
