@@ -10,6 +10,6 @@ alt: image-alt
 project-date: October 2009 - October 2010
 client: CGI
 category: Design, Coding, Content Management, Support, Maintenance
-description: A website dedicated to police activities during the Council of the EU. The project was developed in Wordpress with a multi language approach. Content Management was also done by the team during the 6 months (as well as assisting to several meetings or aiding in preparing them). Gert initially created the layout, Laurent transformed the design to a working Wordpress template. 
+description: This website was dedicated to police activities during the Council of the EU. The project was developed in Wordpress with a multi-language approach. Content Management was also done by the team during the 6 months. Gert initially created the layout, Laurent transformed the design to a working Wordpress template. 
 
 ---

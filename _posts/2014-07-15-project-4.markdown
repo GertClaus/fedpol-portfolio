@@ -7,7 +7,7 @@ date: 2014-07-15
 img: facebook.jpg
 thumbnail: facebook-thumb.jpg
 alt: image-alt
-project-date: April 2014
+project-date: 2010 - present
 client: CGC Digital
 category: Community Management, Content creation, Third party content curation
 description: The Facebook page Belgian Federal Police has become an important tool in a transparent communication. With almost 30.000 likes without spending on advertisement it is safe to say this is our primary target. We also answer all questions and comments on our posts.

@@ -2,7 +2,7 @@
 title: Crimestats
 subtitle: IA, coding & design
 layout: default
-modal-id: 10
+modal-id: 7
 date: 2014-07-15
 img: StatCrim.jpg
 thumbnail: StatCrim-thumb.jpg
@@ -10,6 +10,6 @@ alt: Crimestats
 project-date: 2015
 client: CGOP/B
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: We created a Jekyll/Github microsite to bundle the crimestats. It makes it easier for journalists to retrieve the data. 
 
 ---

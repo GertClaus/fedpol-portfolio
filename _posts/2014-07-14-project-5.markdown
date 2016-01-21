@@ -10,6 +10,6 @@ alt: vintagefriday
 project-date: January 2016
 client: CGC Marketing
 category: Content curation, Community management
-description: VintageVrijdag or #VendrediVintage is a new Instagram-focused series in cooperation with the Marketing dept. We focus on old pictures scans in relation to contemporary events and address the historical polie fans and enlarge our Instagram fanbase.
+description: VintageVrijdag or VendrediVintage is a new Instagram-focused series in cooperation with the Marketing dept. We ditch up old pictures scans in relation to contemporary events and address the historical police fans and enlarge our Instagram fanbase.
 
 ---

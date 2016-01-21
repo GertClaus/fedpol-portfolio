@@ -2,14 +2,14 @@
 title: Youtube
 subtitle: Content Management
 layout: default
-modal-id: 12
+modal-id: 9
 date: 2014-07-15
 img: youtube.jpg
 thumbnail: youtube-thumb.jpg
 alt: Youtube Channel belgianfederalpolice
-project-date: April 2014
+project-date: 2011 - present
 client: Belgian Federal Police
 category: Community Management & Content Management
-description: Digital adds the weekly content (Contacts and Kijk Uit), crime clips and occasional event videos for the directorate. We also monitor the comments and moderate when needed.
+description: Digital Team adds the weekly content (Contacts and Kijk Uit), creates a video version of the Surfons Tranquille podcast, publishes crime clips and occasional event videos for the directorate. We also monitor the comments and moderate when needed. We also add the correct language and SEO parameters to optimize the video reach.
 
 ---

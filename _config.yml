@@ -17,7 +17,7 @@ color:
 people:
 - name: Gert Claus
   pic: 1
-  position: Web Designer & Social Media Consultant
+  position: Webdsigner & Social Media consultant
   social:
     - title: twitter
       url: https://twitter.com/GertCls
@@ -28,36 +28,36 @@ people:
       
 - name: Laurent Bianchin
   pic: 2
-  position: Web Designer & Social Media Consultant
+  position: Webdeveloper & Javascript specialist
   social:
     - title: twitter
-      url: https://twitter.com/GertCls
+      url: https://twitter.com/Shiro1981
     - title: facebook
-      url: https://www.facebook.com/gert.claus
+      url: https://www.facebook.com/laurent.bianchin?fref=ts
     - title: github
-      url: https://github.com/GertClaus
+      url: https://github.com/lbianchin
       
 - name: Pascal Niego
   pic: 3
-  position: Web Developer & Social Media Consultant
+  position: Webdeveloper & PHP specialist
   social:
     - title: twitter
-      url: https://twitter.com/GertCls
+      url: https://twitter.com/Darthsidious30
     - title: facebook
-      url: https://www.facebook.com/gert.claus
+      url: https://www.facebook.com/darthsidious30?fref=ts
     - title: github
-      url: https://github.com/GertClaus
+      url: https://github.com/darthsidious30
       
 - name: Claudine Van Grieken
-  pic: 3
-  position: Web Developer & Social Media Consultant
+  pic: 4
+  position: Team leader & professional debugger
   social:
     - title: twitter
-      url: https://twitter.com/GertCls
+      url: https://twitter.com/ClaudineVG
     - title: facebook
-      url: https://www.facebook.com/BelgianFederalPolice/?ref=hl
+      url: https://www.facebook.com/claudine.vangrieken?fref=ts
     - title: github
-      url: https://github.com/GertClaus
+      url: https://github.com/clovangrieken
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

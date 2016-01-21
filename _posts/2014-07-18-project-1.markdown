@@ -10,6 +10,6 @@ alt: bende van nijvel / Tueurs de Brabant
 project-date: April 2012 - now
 client: FGP Charleroi
 category: Design, Coding, Content management, IA, Support, Maintenance
-description: We did a complete revamp of the old website . Content was reviewed and restructured. The design became fact-based and more user-friendly. It was one of the first major responsive (website adapts to device screen) webprojects we did. Gert created the layout, IA and the templates, Pascal added most of the content and some technical functionalities like the mail form and menus. Laurent translated the complete website to the Github/Jekyll environment.
+description: We did a complete revamp of the old website . Content was reviewed and restructured. The design became fact-based and more user-friendly. It was one of the first major responsive (website adapts to any device screen) webprojects we did. Gert created the layout, IA and the templates, Pascal added most of the content and some technical functionalities like the mail form and menus. Laurent translated the complete website to the Github/Jekyll environment.
 
 ---
